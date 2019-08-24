@@ -4,19 +4,55 @@ body{
     background: #777;
     width: 960px;
     font-size: 18px;
+    margin: auto;
+    line-height: 35px;
+
 }
 Header,nav,section,aside,footer{
     background: #ebebeb;
+    display: block;
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+
+
+}
+
+h1,p{
+    color: #777;
+    background: #ebebeb;
+    text-align: center;
+    width: 90%;
+    padding: 10px;
+    margin:10px;
+
 
 }
 article{
     color: #ebebeb;
-    background: #777;
+    background-color: #777;
+    padding: 10px;
+
 
 }
-h1,p{
-    color: #777;
-    background: #ebebeb;
-    
+aside{
+    float: right;
+    height: 300px;
+    width: 40%;
+    display:block;
+    overflow: hidden;
+
+
+}
+section{
+    float: left;
+    display: block;
+    width: 495px;
+    height: 300px;
+    overflow: hidden;
+
+}
+.space{
+    clear: both;
 
 }
