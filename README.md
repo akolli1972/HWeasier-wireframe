@@ -5,10 +5,10 @@ Created by Aruna Kolli on 8/24/2019
 - - -
 ## The process behind the application
 In this assignment we had to create a simple html page with css components.
-I first craeted an html page using key words such as :
+I first created an html page using key words such as :
 
     * 'header'
-    * 'vav'
+    * 'nav'
     * 'section'
     * 'article'
     * 'aside'
